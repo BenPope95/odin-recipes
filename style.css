@@ -1,0 +1,36 @@
+body {
+    background-color: orange;
+}
+
+a {
+    font-size: 36px;
+    color: red;
+    
+}
+
+h1 {
+    color: red;
+    background-color: white;
+
+
+}
+
+h2 {
+    color: red;
+    background-color: orange;
+}
+
+p {
+    color: black;
+    
+    
+}
+
+li {
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
